@@ -1,0 +1,10 @@
+Address 			Variable/Function			Section
+0x4005d6				food				Text
+0x40061f				main				Text
+0x601048				a  				Bss
+0x7ffc242583d4				b				Stack
+0x601064				c				Bss
+0x7ffc242583b4				d				Stack	
+0x60104c				e				Bss
+0x7ffc242583e0				str				Bss
+0x7ffc242583d8				p				Heap

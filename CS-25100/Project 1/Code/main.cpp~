@@ -1,0 +1,19 @@
+/**
+ *  CS251 - Spring 2018: Project 1
+ */
+
+#include <iostream>
+
+using namespace std;
+
+int main(int argc, char** argv)
+{
+	/* Use input/output using C++ like notation would use "cin" and "cout" to read/write to stdin/stdout */
+
+    /* ------------------------------- */
+    /* process inputs and write output */
+    /* ------------------------------- */
+
+    /* Exit the program */
+    return 0;
+}
