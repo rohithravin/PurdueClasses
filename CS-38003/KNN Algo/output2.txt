@@ -1,0 +1,42 @@
+---------------------------DATASET 1 9 8 5------------------------------
+Welcome to KNN Algo
+Classifying Data for Dataset 1 9 8 5 (k = 1)...
+Data Classified for Dataset 1 9 8 5 (k = 1)...
+Evluating Model for Dataset 1 9 8 5 (k = 1)...
+Confusion Matrix for Dataset 1 9 8 5 (k = 1):
+[[437.   0.   6.   0.]
+ [  0. 337.   9.   4.]
+ [  4.   3. 391.   5.]
+ [  2.   5.   8. 388.]]
+Average F1 Score: for Dataset 1 9 8 5 (k = 1):0.9708501243301095
+
+Classifying Data for Dataset 1 9 8 5 (k = 5)...
+Data Classified for Dataset 1 9 8 5 (k = 5)...
+Evluating Model for Dataset 1 9 8 5 (k = 5)...
+Confusion Matrix for Dataset 1 9 8 5 (k = 5):
+[[417.   0.  12.   4.]
+ [  1. 321.   9.   7.]
+ [ 19.  19. 379.  19.]
+ [  6.   5.  14. 367.]]
+Average F1 Score: for Dataset 1 9 8 5 (k = 5):0.9285204315160775
+
+Classifying Data for Dataset 1 9 8 5 (k = 15)...
+Data Classified for Dataset 1 9 8 5 (k = 15)...
+Evluating Model for Dataset 1 9 8 5 (k = 15)...
+Confusion Matrix for Dataset 1 9 8 5 (k = 15):
+[[378.   0.  11.   8.]
+ [  1. 300.  13.  21.]
+ [ 50.  39. 373.  53.]
+ [ 14.   6.  17. 315.]]
+Average F1 Score: for Dataset 1 9 8 5 (k = 15):0.8566221075112539
+
+Classifying Data for Dataset 1 9 8 5 (k = 31)...
+Data Classified for Dataset 1 9 8 5 (k = 31)...
+Evluating Model for Dataset 1 9 8 5 (k = 31)...
+Confusion Matrix for Dataset 1 9 8 5 (k = 31):
+[[309.   0.  15.  11.]
+ [  3. 249.  24.  35.]
+ [ 92.  84. 350. 104.]
+ [ 39.  12.  25. 247.]]
+Average F1 Score: for Dataset 1 9 8 5 (k = 31):0.7275250024683564
+
